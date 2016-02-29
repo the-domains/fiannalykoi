@@ -1,0 +1,28 @@
+name: FiannaLykoi
+favicon: null
+layout_spectrum: 0.7115957250352949
+typography_spectrum: 0.20896886242553592
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.41224984964355826
+  lightness: 0.04229087941348553
+  saturation: 0.7358550869394094
+  rhythmicContrast: 0.013252709060907364
+purpose: []
